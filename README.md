@@ -1,2 +1,2 @@
 # dirk
-dirk exports KUBECONFIG by direnv
+dirk exports KUBECONFIG via direnv
